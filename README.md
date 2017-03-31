@@ -12,6 +12,7 @@ https://github.com/NIVeriStandAdd-Ons/CAN-Frame-Protection-Custom-Device
 
 
 LabVIEW Version:
+
 LabVIEW 2016
 Built Availability
 
@@ -23,6 +24,7 @@ IP has been tested by developer. It meets VeriStand addon coding best practices.
 This addon does not have all CRC/Checksum options implemented.
 
 This addon shouldn't link to channels that are in an inline custom device (addon).
+
 Dependencies
 
 NI XNET 16.0 or later
